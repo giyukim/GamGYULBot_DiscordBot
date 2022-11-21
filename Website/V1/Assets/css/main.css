@@ -1,0 +1,29 @@
+body{font-family: sans-serif; }
+
+.custom-navbar{background-color: #ff9735; }
+.custom-navbar-img{margin-right: 10px;}
+
+.custom-alert1{margin: 15px;}
+
+.custom-div1{margin-top: 5%;}
+.custom-div1-div1{margin-left: 5%; margin-top: auto; margin-bottom: auto; height: auto; width: auto; padding-top: 5%;}
+.custom-div1-div1-p1{font-weight: bold; font-size: 50px; color: #ff7b00;}
+.custom-div1-div1-p2{font-size: 17px; color: #555555; }
+.custom-div1-div2{padding-top: 7%;}
+.custom-div1-div2-img{margin-left: 8%;}
+
+.custom-idx-btn{width: 100%;}
+.custom-idx-btndiv{margin-top: 7%;}
+.custom-idx-copyrightspan{margin: auto auto;}
+
+.custom-u-div1{margin-top: 6%;}
+.custom-u-rowblank{height: 40px;}
+.custom-u-div1-div1-div1{border-right: 1px solid #777777; padding-right: 3%;}
+.custom-u-div1-div1-div1-p{font-weight: bold; font-size: 50px; color: #333333;}
+.custom-u-div1-div1-div2{padding-left: 3%; margin-top: 2%;}
+
+.custom-dvp-cardall{margin-top: 6%;}
+.custom-dvp-rowblank{height: 40px;}
+.custom-dvp-cardtext{text-align: center; font-weight: bold; color: #555555;}
+.custom-dvp-cardavatar{border-right: 1px solid #777777; padding-right: 3%; padding-top: 3%;}
+.custom-dvp-cardrightall{padding-left: 3%; margin-top: 2%;}
